@@ -28,7 +28,8 @@ I'm Rak, a Developer. 🚀
 
 **Tools:** 
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://symbols.getvecta.com/stencil_81/42_git-icon.63fe7af15d.png"></code>
+<code><img height="40" src="https://symbols.getvecta.com/stencil_86/41_kong-icon.e9ad57570d.png"></code>
 <code><img height="40" src="https://symbols.getvecta.com/stencil_74/14_apache-kafka-icon.96e46bbe3a.png"></code>
 <code><img height="40" src="https://symbols.getvecta.com/stencil_94/51_redis-icon.782312885c.png"></code>
-<code><img height="40" src="https://symbols.getvecta.com/stencil_86/41_kong-icon.e9ad57570d.png"></code>
+
