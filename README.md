@@ -18,7 +18,9 @@ I'm Rak, a Developer. 🚀
 **Databases:** 
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="40" src="https://symbols.getvecta.com/stencil_88/27_mariadb-icon.5f56cfd761.png"></code>
 <code><img height="40" src="https://symbols.getvecta.com/stencil_77/101_couchbase-icon.cf18cc04df.png"></code>
+<code><img height="40" src="https://symbols.getvecta.com/stencil_74/10_apache-couchdb-icon.1a9dea5e82.png"></code>
 
 **Blockchains:** 
 
