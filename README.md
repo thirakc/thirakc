@@ -41,8 +41,8 @@ I'm Rak, a Blockchain Engineer. 🚀
 
 **API Gateway:** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Message Queue:** <br>
 <code><img height="40" src="https://seeklogo.com/images/K/kong-logo-30290787E5-seeklogo.com.png"></code>
-<code><img height="40" src="https://seeklogo.com/images/N/nginx-logo-B38DADE410-seeklogo.com.png"></code>
-&emsp;&emsp;
+<code><img height="40" src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg"></code>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Apache_kafka_wordtype.svg/800px-Apache_kafka_wordtype.svg.png"></code>
 
 **Cache:** &emsp;&emsp;&emsp;&emsp;&emsp;**KMS:** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Performance Test:** <br>
@@ -61,3 +61,10 @@ I'm Rak, a Blockchain Engineer. 🚀
 <code><img height="40" src="https://seeklogo.com/images/K/kibana-logo-3CB40921E7-seeklogo.com.png"></code>
 <code><img height="40" src="https://seeklogo.com/images/E/elastic-logstash-logo-EC5646BB13-seeklogo.com.png"></code>
 <code><img height="40" src="https://seeklogo.com/images/E/elastic-beats-logo-02512BDFD2-seeklogo.com.png"></code>
+
+**Other:** <br>
+<code><img height="40" src="https://blockchainappmaker.com/wp-content/uploads/2021/11/caliper-logo.png"></code>
+<code><img height="40" src="https://blockscout.com/eth/mainnet/android-chrome-192x192.png"></code>
+<code><img height="40" src="https://www.molysulfur.dev/content/images/size/w1000/2021/05/image-1.png"></code>
+<code><img height="40" src="https://static.wikia.nocookie.net/logopedia/images/0/02/New_App_Store_connect_logo.png/revision/latest/scale-to-width-down/230?cb=20210628215439"></code>
+<code><img height="40" src="https://kstatic.googleusercontent.com/files/1fe7be872b87fd388b652aeb837f4f49fec1b202790795cc4f2a1b5e1fadc4c73e016e7da7da2d5c847c36da87fd6de4afb814c4927717dad96a2e61cfa9b49a"></code>
