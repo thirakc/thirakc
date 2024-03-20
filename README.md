@@ -1,12 +1,12 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Rak, a Blockchain Engineer. 🚀
+Greeting, my name's Rak. 🚀
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working in Innovation Lab :wink:;
-- 🌱 I’m currently learning W3C VC and VP; 
-- 📫 How to reach me: [Email](chuayjan.thirak@gmail.com);
+- 👨🏽‍💻 I’m currently working in Tech Innovation Team :wink:;
+- 🌱 I’m a Software, Blockchain, and Decentralized Identity Engineer; 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thirak-chuayjan-912512208);
 
 **Programming Languages:** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Databases:** <br>
 <code><img height="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png"></code>
